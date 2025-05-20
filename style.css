@@ -4,9 +4,16 @@
     background-repeat: no-repeat;
 }
 
-
 body {
-    background-color: gray
+    background-color: gray;
+    color: white;
 }
 
+nav {
+    font-weight: bold;
+}
 
+nav :hover {
+    cursor: pointer;
+    color: darkblue;
+}
