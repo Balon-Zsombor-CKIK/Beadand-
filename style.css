@@ -22,11 +22,21 @@ nav :hover {
     background-color: white;
 }
 
-p {
-    padding: 40px 20px;
-    max-width: 900px;
+.row div {
+    padding: 20px 20px 10px 10px;
+    width: 400px;
     margin: auto;
     background-color: white;
     opacity: 75%;
+    color: black;
+    height: 600px;
+    margin: 50px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.rov div a {
     color: black;
 }
