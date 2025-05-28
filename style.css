@@ -62,3 +62,7 @@ h1, h2 {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+#Képek {
+    position: center;
+}
