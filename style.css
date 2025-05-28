@@ -55,6 +55,7 @@ h1, h2 {
     color: black;
     height: 1800px;
     margin: 50px;
+    text-align: justify;
 }
 
 #hatterkep1 {
@@ -64,5 +65,16 @@ h1, h2 {
 }
 
 #Képek {
-    position: center;
+   position: fixed;
 }
+
+#albertkep1 {
+    height: 250px;
+    width: 1000px;
+}
+
+#albertkep2 {
+    height: 250px;
+    width: 1000px;
+}
+
